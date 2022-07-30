@@ -1,7 +1,7 @@
  
 package aprendergit;
  
-public class claseVehiculo {
+public class Vehiculo {
     private int numeroDeTimones;
     
     public int getNumeroDeTimones(){
@@ -10,5 +10,7 @@ public class claseVehiculo {
     public void serNumeroDeTimones(int NumeroDeTiomnes){
         this.numeroDeTimones = NumeroDeTiomnes;
     }
+    
+
             
 }

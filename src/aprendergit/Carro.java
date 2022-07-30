@@ -1,7 +1,7 @@
  
 package aprendergit;
  
-public class Carro extends claseVehiculo{
+public class Carro extends Vehiculo{
     private int numeroDePuertas;
 
     public int getNumeroDePuertas() {
