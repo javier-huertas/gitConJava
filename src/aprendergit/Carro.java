@@ -11,5 +11,8 @@ public class Carro extends Vehiculo{
     public void setNumeroDePuertas(int numeroDePuertas) {
         this.numeroDePuertas = numeroDePuertas;
     }
+    public void abrirPuerta(){
+        System.out.println("La puerta se esta abriendo");
+    }
     
 }

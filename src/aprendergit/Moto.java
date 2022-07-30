@@ -12,5 +12,7 @@ public class Moto extends Vehiculo{
         this.numeroRetrovisores = numeroRetrovisores;
     }
     
-    
+    public void hacerTruco(){
+        System.out.println("La moto puede hacer un truco");
+    }
 }
